@@ -1,0 +1,14 @@
+C:\Users\Jeny\source\repos\EjerciciosPOO3\bin\Debug\EjerciciosPOO3.exe.config
+C:\Users\Jeny\source\repos\EjerciciosPOO3\bin\Debug\EjerciciosPOO3.exe
+C:\Users\Jeny\source\repos\EjerciciosPOO3\bin\Debug\EjerciciosPOO3.pdb
+C:\Users\Jeny\source\repos\EjerciciosPOO3\obj\Debug\EjerciciosPOO3.csprojAssemblyReference.cache
+C:\Users\Jeny\source\repos\EjerciciosPOO3\obj\Debug\EjerciciosPOO3.csproj.CoreCompileInputs.cache
+C:\Users\Jeny\source\repos\EjerciciosPOO3\obj\Debug\EjerciciosPOO3.exe
+C:\Users\Jeny\source\repos\EjerciciosPOO3\obj\Debug\EjerciciosPOO3.pdb
+C:\Users\Jeny\Documents\Kodigo\C#\EjerciciosPOO3\bin\Debug\EjerciciosPOO3.exe.config
+C:\Users\Jeny\Documents\Kodigo\C#\EjerciciosPOO3\bin\Debug\EjerciciosPOO3.exe
+C:\Users\Jeny\Documents\Kodigo\C#\EjerciciosPOO3\bin\Debug\EjerciciosPOO3.pdb
+C:\Users\Jeny\Documents\Kodigo\C#\EjerciciosPOO3\obj\Debug\EjerciciosPOO3.csprojAssemblyReference.cache
+C:\Users\Jeny\Documents\Kodigo\C#\EjerciciosPOO3\obj\Debug\EjerciciosPOO3.csproj.CoreCompileInputs.cache
+C:\Users\Jeny\Documents\Kodigo\C#\EjerciciosPOO3\obj\Debug\EjerciciosPOO3.exe
+C:\Users\Jeny\Documents\Kodigo\C#\EjerciciosPOO3\obj\Debug\EjerciciosPOO3.pdb
